@@ -1,0 +1,19 @@
+
+.primero {
+    color: crimson;
+}
+
+.segundo{
+    color: violet;
+
+}
+
+.ejemplo p {
+    color: rgb(224, 64, 64);
+
+}
+
+.ejemplo:hover {
+    color: aqua;
+}
+
